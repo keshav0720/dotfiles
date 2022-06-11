@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hiji762@yahoo.com
+	name = Gaurav Chadee
